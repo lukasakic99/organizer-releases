@@ -1,0 +1,11 @@
+{
+  "version": "0.2.0",
+  "notes": "Adds per-project colors, light/dark mode, Clients tab with AI scoring, dashboard overhaul, calendar, business pricing hub with quotes, time tracking, workload heatmap, and a persistent cross-tab Assistant.",
+  "pub_date": "2026-07-16T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZ3VIbXJORkRxSm5RVll5S1RkcGsvaVlBdUNpQkw3bWIzWG01dStnTFNnOGlGM2d6ZHo4QVc3b0RSY0haVllNVi91c3QxdndURmRUWk9ORnA2QzFGemZHUDVEclgzNkFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0MTk0Mzc3CWZpbGU6T3JnYW5pemVyLmFwcC50YXIuZ3oKaXVSNDRjWWtUcExnVDFTdWZZUWI3U1pCd3IrcXpjUHg3UGFZditmaEhZTGg2M2FuczEvUGlwN3FOZ292dVlwOFFnVjU5ZlFvVWowYXJXZFhOTDltQmc9PQo=",
+      "url": "https://github.com/lukasakic99/organizer-releases/releases/download/v0.2.0/Organizer.app.tar.gz"
+    }
+  }
+}
